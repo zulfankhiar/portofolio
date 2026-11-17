@@ -24,5 +24,5 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 
 ## Tautan
 
-- Website: menyusul setelah *deploy* ke Vercel
+- Website: https://portofolio-zulfan-khiar.vercel.app/
 - Dibuat oleh: Zulfan Khiar, SMKN 1 Jenangan Ponorogo
