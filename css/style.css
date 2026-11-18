@@ -142,6 +142,26 @@ main {
     margin-bottom: 0;
 }
 
+/* Tambahan untuk Kartu di Halaman Kontak */
+.kartu-1,
+.kartu-2 {
+    background-color: #FFFFFF;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #DDDDDD;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.kartu-2 ul {
+    padding-left: 1.25rem;
+    list-style-type: disc;
+}
+
+.kartu-2 li {
+    margin-bottom: 0.5rem;
+}
+
 article img {
     border-radius: 8px;
     border: 1px solid #DDDDDD;
